@@ -1,7 +1,7 @@
 # 📘 Sistema de Gestão do Caderno de Projetos de TI (SisCPTI) 📝
 
 O **SisCPTI** é um sistema de gestão desenvolvido para a disciplina de **Projeto Integrador I** do UNICEUB.  
-O objetivo principal é criar uma plataforma centralizada para gerenciar projetos de Tecnologia da Informação (TI), servindo como um catálogo digital para empresas e estudantes da universidade.  
+O objetivo principal é criar uma plataforma centralizada para gerenciar projetos de Tecnologia da Informação (TI), servindo como um catálogo digital para empresas e estudantes da universidade.
 Ele facilita a comunicação e o acompanhamento do progresso de projetos integradores, garantindo uma experiência mais eficiente para todos os envolvidos.
 
 ---

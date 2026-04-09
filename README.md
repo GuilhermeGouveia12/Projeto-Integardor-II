@@ -152,7 +152,10 @@ O **SisCPTI** será construído com base em uma arquitetura web moderna:
 - **Versionamento:** Git
 
 ---
-
+🏛️ Arquitetura de Software
+Estilo Arquitetural
+O SisCPTI adota o padrão MVC (Model-View-Controller) em uma estrutura monolítica, adequada ao escopo acadêmico do PI I. Esse padrão separa claramente as responsabilidades do sistema em três camadas:
+CamadaResponsabilidadeTecnologiaModelLógica de dados e regras de negócioPython (Flask) + PostgreSQLViewInterface apresentada ao usuárioHTML + CSSControllerIntermediação entre View e ModelPython (Flask)
 ### 📊 Stakeholders
 
 - **Coordenação do Curso:** valida diretrizes e acompanha resultados.  
